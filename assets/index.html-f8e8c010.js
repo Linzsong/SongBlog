@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3ef8c902","path":"/GraphQL/","title":"Graph Q L","lang":"zh-CN","frontmatter":{"title":"Graph Q L","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

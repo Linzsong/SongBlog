@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28dbff49","path":"/tag/nest/","title":"标签: nest","lang":"zh-CN","frontmatter":{"title":"标签: nest","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"nest","key":"tag"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

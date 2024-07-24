@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-83ae3928","path":"/tag/monorepo/","title":"标签: monorepo","lang":"zh-CN","frontmatter":{"title":"标签: monorepo","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"monorepo","key":"tag"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

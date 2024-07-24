@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-175f5ccd","path":"/tag/vue-vue3/","title":"标签: vue vue3","lang":"zh-CN","frontmatter":{"title":"标签: vue vue3","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"vue vue3","key":"tag"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-175a26b6","path":"/tag/vue-vite/","title":"标签: vue vite","lang":"zh-CN","frontmatter":{"title":"标签: vue vite","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"vue vite","key":"tag"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

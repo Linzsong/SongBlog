@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6c4abf07","path":"/LowCode/","title":"Low Code","lang":"zh-CN","frontmatter":{"title":"Low Code","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

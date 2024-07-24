@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-03982284","path":"/%E7%A2%8E%E7%A2%8E%E5%BF%B5/","title":"碎碎念","lang":"zh-CN","frontmatter":{"title":"碎碎念","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

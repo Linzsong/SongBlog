@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b31579ca","path":"/tag/bff/","title":"标签: BFF","lang":"zh-CN","frontmatter":{"title":"标签: BFF","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"BFF","key":"tag"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

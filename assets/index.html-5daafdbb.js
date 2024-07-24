@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ed9d5794","path":"/tag/emotibot/","title":"标签: emotibot","lang":"zh-CN","frontmatter":{"title":"标签: emotibot","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"emotibot","key":"tag"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

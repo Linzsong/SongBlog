@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d6f94ca","path":"/category/%E5%9F%BA%E5%BB%BA/","title":"基建 分类","lang":"zh-CN","frontmatter":{"title":"基建 分类","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"基建","key":"category"},"layout":"BlogCategory"},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-15cc8d3b","path":"/MiniProgram/","title":"Mini Program","lang":"zh-CN","frontmatter":{"title":"Mini Program","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

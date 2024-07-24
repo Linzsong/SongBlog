@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-70554e75","path":"/%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E8%BF%99%E6%98%AF%E7%88%B1/","title":"这是爱","lang":"zh-CN","frontmatter":{"title":"这是爱","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

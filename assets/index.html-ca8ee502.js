@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b0f6175","path":"/NestJS/","title":"Nest J S","lang":"zh-CN","frontmatter":{"title":"Nest J S","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

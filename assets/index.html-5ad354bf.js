@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-743669a8","path":"/CLI/","title":"C L I","lang":"zh-CN","frontmatter":{"title":"C L I","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

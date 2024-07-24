@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ea26f392","path":"/%E5%BE%AE%E5%89%8D%E7%AB%AF/","title":"微前端","lang":"zh-CN","frontmatter":{"title":"微前端","article":false,"feed":false,"sitemap":false},"headers":[],"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
